@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## Training
 ### Kandinsky Patterns Twopairs Dataset:
 ```
-python src/train.py --dataset-type kandinsky --dataset twopairs --batch-size 24 --no-cuda --n-beam 5 --t-beam 5
+python src/train.py --dataset-type kandinsky --dataset twopairs --batch-size 1 --no-cuda --n-beam 5 --t-beam 5
 ```
 ### CLEVR-Hans3 Dataset:
 ```
