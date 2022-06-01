@@ -1,4 +1,4 @@
-# alpha-ILP: Differentiable Learning of Logical Representations from Visual Scenes
+# alphaILP: Thinking Visual Scenes as Differentiable Logic Programs
 This is the implementation of alpha-ILP. (Work in progress)
 
 ![ailp](./imgs/aILP.png)
