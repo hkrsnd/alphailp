@@ -1,5 +1,5 @@
 # alphaILP: Thinking Visual Scenes as Differentiable Logic Programs
-This is the implementation of alpha-ILP. (Work in progress)
+This is the implementation of alphaILP.
 
 ![ailp](./imgs/aILP.png)
 
